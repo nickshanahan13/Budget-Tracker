@@ -1,3 +1,4 @@
+
 class BudgetManager:
     def __init__(self, amount):
         self.available = amount
